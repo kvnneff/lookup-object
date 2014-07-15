@@ -7,7 +7,7 @@ Create a lookup object from a given array and key.
 
 
 Example
----------
+--------
 
     var lookup = require('lookup-object'),
         lookupObject = {},
