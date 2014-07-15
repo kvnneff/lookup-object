@@ -1,0 +1,8 @@
+{
+	"name": "lookup-object",
+	"repo": "staygrimm/lookup-object",
+	"description": "create a lookup object from a given array and key",
+	"version": "0.0.1",
+	"license": "MIT",
+	"scripts": ["index.js"]
+}

@@ -1,0 +1,25 @@
+{
+	"name": "lookup-object",
+	"version": "0.0.1",
+	"description": "create a lookup object from a given array and key",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/staygrimm/lookup-object.git"
+	},
+	"keywords": [
+		"array",
+		"object",
+		"sort"
+	],
+	"author": "river grimm",
+	"license": "MIT",
+	"readmeFilename": "readme.md",
+	"scripts": {
+		"test": "make test"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"chai": "*"
+	}
+}
