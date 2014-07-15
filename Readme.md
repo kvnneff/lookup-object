@@ -1,4 +1,4 @@
-lookupObject ![Build Status](https://travis-ci.org/staygrimm/lookupObject.svg?branch=master)
+lookupObject ![Build Status](https://travis-ci.org/staygrimm/lookup-object.svg?branch=master)
 =====================
 
 Create a lookup object from a given array and key.
